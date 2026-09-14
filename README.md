@@ -1,6 +1,6 @@
 # ChaseFree
 
-ChaseFree is a pre-launch accounts receivable platform designed to help agencies and service-based businesses monitor unpaid invoices, identify payment risks, automate customer follow-ups and improve visibility into their cash flow.
+ChaseFree is an accounts receivable platform designed to help agencies and service-based businesses monitor unpaid invoices, identify payment risks, automate customer follow-ups and improve visibility into their cash flow.
 
 🔗 **Live product:** https://chasefree.vercel.app/
 
